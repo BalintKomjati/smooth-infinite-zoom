@@ -1,4 +1,4 @@
-Pillow==8.4.0
+Pillow==13.0.0
 diffusers==0.14.0
 torch==1.13.1
 numpy
